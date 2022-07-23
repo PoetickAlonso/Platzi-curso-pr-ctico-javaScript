@@ -1,0 +1,27 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+h2 { font-size: 2.5rem;}
+button {
+box-shadow: -3px -1px 17px 1px #5f49db;
+border-radius: 1rem;
+}
+
+.caja-figura {
+   /*display: flex;
+   justify-content: space-between;
+   justify-items: center;
+   height: 150px;*/
+   text-align: center;
+    padding: 10px 12px;
+    height: 300px;
+    width: auto;
+    display: flex;
+    height: 150px;
+
+}
